@@ -1,0 +1,2 @@
+# PhidgetBridge
+Phidget Bridge configuration
